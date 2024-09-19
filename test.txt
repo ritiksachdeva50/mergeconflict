@@ -1,3 +1,4 @@
 I am ritik.
 I live in India_2.
-I love Indiaa_aaaaa_222222.
+I love India_1.
+>>>>>>> a650dd9d422dcc6173a3edea38224fcc23f74c45
